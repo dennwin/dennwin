@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennwin
 - 👀 I’m interested in ... Ai,codeing,humanity,And makeing the world a better place
-- 🌱 I’m currently learning ... block chain and everything i can
+- 🌱 I’m currently learning ...everything i can code 
 - 💞️ I’m looking to collaborate on ...It,ai,blockchain,music,digital creation
 - 📫 How to reach me ...trippendrippen@gmail.com
   
